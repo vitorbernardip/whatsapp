@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-<meta http-equiv="refresh" content="2;url=https://wa.me/5551997195444?text=ORDEM.">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Redirecionando para o WhatsApp...</title>
-  
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="refresh" content="2;url=https://wa.me/5551997195444?text=ORDEM" />
+    <title>Redirecionando para o WhatsApp...</title>
+
   <!-- Meta Pixel Code -->
   <script>
   !function(f,b,e,v,n,t,s)
